@@ -1,4 +1,7 @@
-*this is my first tyring write italic*
-_this is my second trying write italic_
-**this is my first write bold**
-*combine the italic and __bold__*
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
